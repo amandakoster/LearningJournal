@@ -1,0 +1,33 @@
+# Amanda Koster's Learning Journal:
+## My adventures learning to code.
+### God help me!
+
+---
+# 3/6/17 #
+
+Today was the first day of CodeFellows 201. The teacher is cool, lively, blunt, and quick. I like that. It was nice to have a few familiar bits and a few (ok, a lot) of new bits. I LOVE terminal because it is so efficient. Git is a little confusing.
+
+I learned a bit more about using terminal. I also felt like I was prepared for class. I did the work, read the pages, and showed up.
+
+
+What destroyed me was 9feeling like) being left alone with the assignment. JavaScript, though I took the Codecademy course a few weeks ago, totally escaped me. My mind went blank! I looked around the room and everyone was quietly typing away. That didn't help. I was mentally freaking out and decided to get out of the room. I found the other half of the class working away, though more in community. People were helping each other, talking, laughing, supporting. This was a better pace for me.
+
+We had to make a prompt in JavaScript and went all the way to fun reasons, scoured the web, thought I was cheating and started sweating. Once again I was making things harder than they need to be. I remembered reading somewhere if you are struggling for more than 15 minutes to ask for help. 18 min later, I asked a TA for help and came back to earth. This is an excerpt of the result:
+
+<p>Where are you from?
+  <script> var born = prompt("where were you born?");
+  alert(born + ' is a great place!');
+  console.log(name + ' was born in'+ born);
+  </script>
+</p>
+
+... and it **WORKED**!!!!  It was great to help out another classmate as well, and find out that I was in the same boat as everyone else.
+
+My goals are to stay focused, keep trying and ask for help.
+
+---
+# 3/6/17 #
+
+Journal time. Today wasn't as maddening. Even though I needed a lot of help, I jumped in and attacked the assignment. Yeah, it was wrong, but I worked it out, asked for help, and fixed it.
+
+I noticed a few things today. I noticed that when I ask questions in class, the rest of the class starts asking questions.  I think a lot of people are afraid of looking dumb. However, I also things they appreciate it when I ask questions.
