@@ -26,8 +26,21 @@ We had to make a prompt in JavaScript and went all the way to fun reasons, scour
 My goals are to stay focused, keep trying and ask for help.
 
 ---
-# 3/6/17 #
+# 3/8/17 #
 
 Journal time. Today wasn't as maddening. Even though I needed a lot of help, I jumped in and attacked the assignment. Yeah, it was wrong, but I worked it out, asked for help, and fixed it.
 
 I noticed a few things today. I noticed that when I ask questions in class, the rest of the class starts asking questions.  I think a lot of people are afraid of looking dumb. However, I also things they appreciate it when I ask questions.
+
+GitHub is maddening, though it irritates everyone so I don't feel so bad.
+
+Other than all this, I'll add a few list stuffs for the assignment. So I learned these cool things:
+
+1. it's pretty easy to tally stuff.
+  *declare the variable to count: var correct = 0;
+  *set it to count correct++;
+  *say the counted/tally cuz why else count anything: alert('Awesome, ' + name + '! You got ' + correct + ' out of 7 questions correct!');
+
+2. Ask questions relentlessly. I noticed my self say "I'm sorry, but [question]" and it pissed me off. That dumb thing women do, apologizing for not knowing, speaking up, existing. Bleh. I'm here to learn.
+
+3. I screwed up for loops so well that I think I get them. I like to throw some code up and work it out.
