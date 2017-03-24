@@ -1,9 +1,9 @@
-doing# Amanda Koster's Learning Journal:
+entrancevocabularysomedoing# Amanda Koster's Learning Journal:
 ## My adventures learning to code.
 ### God help me!
 
 ---
-## 3/6/17 ##
+# 3/6/17 #
 
 Today was the first day of CodeFellows 201. The teacher is cool, lively, blunt, and quick. I like that. It was nice to have a few familiar bits and a few (ok, a lot) of new bits. I LOVE terminal because it is so efficient. Git is a little confusing.
 
@@ -26,7 +26,7 @@ We had to make a prompt in JavaScript and went all the way to fun reasons, scour
 My goals are to stay focused, keep trying and ask for help.
 
 ---
-## 3/8/17 ##
+# 3/8/17 #
 
 Journal time. Today wasn't as maddening. Even though I needed a lot of help, I jumped in and attacked the assignment. Yeah, it was wrong, but I worked it out, asked for help, and fixed it.
 
@@ -47,83 +47,130 @@ Other than all this, I'll add a few list stuffs for the assignment. So I learned
 
 My goal now is to write code and work it out. I want to get in the habit of doing that.
 
-That's what I've got for today!
+
 
 Cheers.
 
-----
-
-## 3/12/17 ##
-
-A little late with my Journaling today.  However, after the reading Chapter 3 in the JS textbook this morning I got excited.  I saw a library of methods and that boosted my morale with JS. To be perfectly honest, JS kicks my ass eery day and I freak out if I'll ever get it. But then I find out about 75% of the class is in the same boat.
-
-Today was different. I saw JS's potential and I look forward to using JS in a more creative way. To date we are writing methods for methods sake in order to learn and I am not really seeing the whole picture. however, once I saw all of those methods I could see how useful JS is.
-
-It's getting late and I don't want to be up too late working on this journal, I'd rather be coding. I did learn last week that CSS is fun for me. I look forward to building more stuff.
-
-Later, Amanda
-
 ---
 
-# 3/13/17 #
+# 3-17-17 #
 
-Well, tonight I am going to go home crying.  I feel like I ask for help with everything can't do anything on my own. I am afraid I am falling behind and since everything moves so fats that every 10 min I fall behind, is like a day. This really sucks.
+Today rocked. I loved the assignment, the vibe is great on Fridays at CF, and the team is getting to know each other some more. I have to say I am kinda bummed I won't go into 301 with my class because I need to take April off as my family is coming to visit. OH well.
 
-I did manage to build about 20% of the project before I was stuck for all the rest. I also managed to do git right. However for the rest of it I feel like I am cheating vs. learning. I jus stare at the screen blankly... then just getting answers from the TAs/Teacher.I'm not even able to get to the reading s it is 8:30pm, my commute is 45 min then I go home and read. Just getting answers from the TAs/Teacher.
+#Suggestion#No ones leave until everyone understands and it satisfied with thir work.
 
-Today felt horrible.
+Today I floated stuff in CSS. It wasn't that hard to align blocks side by side. In fact, it went well. I also go to pair program and I liked it. Here's the code:
 
+ul {
+  list-style: none;
+  display: inline-block;
+}
+#top{
+  display: inline-block;
+}
+
+#company{
+  display: inline-block;
+}
+
+#menu{
+  display: inline-block;
+  float: right;
+}
+
+#social{
+  display: inline-block;
+  overflow: hidden;
+  /*float: left;*/
+  /*padding: 0 20px;*/
+}
+#socialLogo{
+  display: inline;
+  float: left;
+}
+
+#recipe-name{
+  display: inline-block;
+}
+
+#container {
+  height: 400px;
+  width: 400px;
+  position: relative;
+}
+#image {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+#text {
+  z-index: 100;
+  position: absolute;
+  font-size: 24px;
+  font-weight: bold;
+  left: 150px;
+  top: 1px;
+}
+
+#print{
+  display: inline-block;
+  float: right;
+}
+
+#print-pic{
+  display: inline;
+  float: left;
+}
+
+#image{
+  background:
+
+}
+
+#headshot{
+  display: inline-block;
+}
+
+#author{
+  display: inline-block;
+  }
+
+#author-info{
+  display: inline;
+  float: left;
+}
+
+#share{
+  display: inline-block;
+  float: right;
+}
+
+Loved today, loved this week. Peace out.
 Amanda
 
----
+##
 
-## 3/15/17 ##
-How code is therapy: good, bad and ugly.
+3-20-17
 
-3pm.
-I'm not gonna lie. I am feeling miserable and am in tears throughout the day and at home. The gender imbalance it starting to get to me. There is a playful competitiveness to our class but nonetheless less it feel competitive and it sucks to be the slow kid. That's me in 201.
+Today I learned, once again, that I am doing ok. I'm not gonna lie, this is kicking my ass, hard. However, I want to learn this stuff and I like it. SO, I'll be back for more. I am hoping I can pull form past lessons to do this class lesson.
 
-Besides that I am really struggling with the overall pace. Last night I got home at 10:30p. I read till 12am and still didn't complete the reading. Class feels very fast, screens code, browser flash in front of me and I am unable to keep up.
+I need to work more with the bros. Tomorrow I will collaborate and ask more questions, get help form the team, try to tag team. To be honest that makes the class harder, but I will do it.
 
-#Suggestion#
-Nick, during class can you try to console/browser and code as a split screen vs. overlaying them + toggling between screens? I am trying to understand code and poof, the code is gone and I am looking at a browser forgetting the code entirely. I want to be able to compare code to browser/console during the code review.
+I want to be able to sit down and write some for loops, if/else, and object constructions. I want to know this vocabulary better so I can express what I am thinking. I am sick of saying 'that thing'. I still get lost with that stuff. I'll get here.
 
-6pm.
-# Today I learned #
-It is very cool how I can use JS to manipulate an HTML file. Even though it is hard I really like the Salmon Cake project. It is amazing how many commands there are for JS and I really want to learn it. I like how the entire package HTML/CSS/JS works together. I think I'll stay here for awhile.
+I don't have much juice left in my battery, so that's what I have for today. I am excited for the week and will do everything I can to tell my ego to step aside.
 
-I also did a few things on git and I did it right! Then I followed some advice and that was wrong. So now I know 1. I get it and 2. I am not the online that is getting things wrong.
+Damn.
+Amanda
 
-10:15pm
-Hadiya was right. I have a self confidence problem. AND I have been getting lost in my crappy self talk. Agh. How did code end up being a therapy session?
+##
 
-AGGGGHHHHHHHH!!!!!!!!
-Me.
+3-23-17.
 
+I am tired. This week took it's toll, 14 hour days M-F and then 4-6 hour days on the weekends. This week was hard but great. I figured out a few things that really boosted my moral.  I am anxious for the 301 entrance exam as I feel like I keep asking for help and not really getting JavaScprit. I want to be able to sit down and write a fairly simple function, though that is still a challenge. I want to take 301 and I want to get a job.
 
+I am excited for the project and have always wanted to work with beacon concepts and Google anything. I am also happy about our team. It will be very different to start the project without a detailed assignment. Looking forward it it!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//
+Later,
+Amanda
+##
